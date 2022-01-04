@@ -11,14 +11,14 @@ function ctof(cel) {
 }
 
 // Fahrenheit to Celsius;
-ftoc(32);
-ftoc(100);
-ftoc(-100);
+ftoc(32); // Passed!
+ftoc(100); // Passed!
+ftoc(-100); // Passed!
 
 // Celcius to Fahrenheit;
-ctof(0);
-ctof(73.2);
-ctof(-10);
+ctof(0); // Passed!
+ctof(73.2); // Passed!
+ctof(-10); // Passed!
 
 // Do not edit below this line
 module.exports = {
